@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "Shareable ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "release": "npx standard-version && git push --follow-tags origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powerkernel/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "shareable"
+  ],
+  "author": "Harry Tang <harry@powerkernel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/powerkernel/eslint-config/issues"
+  },
+  "homepage": "https://github.com/powerkernel/eslint-config#readme"
+}
